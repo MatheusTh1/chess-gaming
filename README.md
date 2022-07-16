@@ -1,4 +1,4 @@
-#♟️ *Chess Gaming* 
+# *Chess Gaming* ♟
 
 <h3 align="center"> 
   Chess gaming é um jogo de xadrez contruindo em java com a opção de visualizar as peças de um modo muito simples e minimalista!
